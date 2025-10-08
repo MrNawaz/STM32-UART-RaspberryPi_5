@@ -91,7 +91,7 @@ int main(void)
   MX_GPIO_Init();
   MX_USART1_UART_Init();
   /* USER CODE BEGIN 2 */
-  char msg[] = "Ezzah Yusra!\r\n";
+  char msg[] = "Hello Mr.Nawaz!\r\n";
 
   /* USER CODE END 2 */
 
